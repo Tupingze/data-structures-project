@@ -1,0 +1,10 @@
+node_modules/
+.env
+.env.*
+!.env.example
+work/
+*.zip
+.DS_Store
+releases/
+dist/server/
+dist/.openai/
